@@ -6,3 +6,7 @@ def secret_greeting(num):
         print("Not a correct or accepted number!")
     
 secret_greeting(2)
+
+def goodbye():
+    print("Goodbye! See you later")
+    
